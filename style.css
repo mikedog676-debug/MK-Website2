@@ -89,8 +89,12 @@
     text-align: center;
     font-display: bold;
     line-height: 1;
-    letter-spacing: 0.00001em;
+    font-family: "Bodoni Moda", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
   }
+
   .sub_header{
     font-size: clamp(2rem, 2.75rem, 5rem);
     font-family: "Italiana", sans-serif;
