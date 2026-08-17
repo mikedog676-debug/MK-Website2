@@ -2,7 +2,7 @@
 :root {
     background-image: linear-gradient(to right, #ddd, #aaa);
     font-size: 16px;
-}
+    }
 
   * {
     padding: 0;
@@ -81,6 +81,7 @@
     margin: 0 auto;
     line-height: 1;
     padding-bottom: clamp(1rem,10vw,2rem);
+    overflow: hidden;
   }
 
   .header {
