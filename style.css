@@ -94,7 +94,6 @@
     font-weight: 600;
     font-style: normal;
   }
-
   .sub_header{
     font-size: clamp(2rem, 2.75rem, 5rem);
     font-family: "Italiana", sans-serif;
